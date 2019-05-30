@@ -1,0 +1,7 @@
+*.stl
+*.dxf
+*.FCStd[1-9]
+*.net
+*.zip
+*.bak
+*-bak
